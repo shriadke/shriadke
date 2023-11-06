@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Shri. and I'm a AI Sofware Engineer, based in Atlanta, GA</h2>
+<h2 align="left">Hi 👋! My name is Shri. and I'm an AI Sofware Engineer, based in Atlanta, GA</h2>
 
 ###
 
@@ -72,9 +72,9 @@
 ###
 
 <br clear="both">
-
+<!--
 <img src="https://raw.githubusercontent.com/shriadke/shriadke/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="center">
