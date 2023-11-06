@@ -83,8 +83,5 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/43625263?v=4"  />
-</div>
 
 ###
